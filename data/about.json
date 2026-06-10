@@ -1,0 +1,24 @@
+{
+  "name": "Hasnain Shinwari",
+  "title": "Cybersecurity Analyst | Linux Administrator | Penetration Tester",
+  "intro": "Computer Science graduate with 3 years of hands-on experience in Linux systems, networking, virtualization, and cybersecurity. Experienced in Linux administration, penetration testing, enterprise networking, and Capture The Flag (CTF) challenges.",
+  "bio": "I am deeply passionate about securing enterprise infrastructures, hardening Linux systems, and uncovering critical security vulnerabilities. With a solid foundation in computer science and extensive time spent building virtual network labs, I simulate advanced threat environments to analyze attack vectors from both offensive and defensive perspectives. I design secure networks, write custom automated scripts in Bash and Python, and support operating systems education through labs and troubleshooting.",
+  "stats": [
+    {
+      "value": "3+",
+      "label": "Years Experience"
+    },
+    {
+      "value": "250+",
+      "label": "CTF Flags Captured"
+    },
+    {
+      "value": "40+",
+      "label": "Virtual Labs Built"
+    },
+    {
+      "value": "15+",
+      "label": "Vulnerabilities Found"
+    }
+  ]
+}

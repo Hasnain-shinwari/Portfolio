@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "title": "Secure Enterprise Network",
+    "category": "Networking",
+    "description": "Designed and implemented a secure enterprise network featuring VLAN segmentation, inter-VLAN routing, DHCP, RIP v2, and Cisco ASA firewall integration. Hardened the network with access control lists (ACLs) and SSH management.",
+    "technologies": [
+      "Cisco Packet Tracer",
+      "VLANs",
+      "RIPv2",
+      "Cisco ASA",
+      "Firewall Configuration",
+      "Network Security"
+    ],
+    "links": {
+      "github": "https://github.com/Hasnain-shinwari/Secure-Enterprise-Network"
+    }
+  },
+  {
+    "id": 2,
+    "title": "CyberSpace",
+    "category": "Cybersecurity Intelligence",
+    "description": "Developed a full-stack threat intelligence platform offering bulk WHOIS lookups, automated password auditing, active phishing link detection, domain reputation analysis, and VirusTotal integration for real-time file hash verification.",
+    "technologies": [
+      "Python",
+      "Flask",
+      "VirusTotal API",
+      "WHOIS",
+      "Web Scraping",
+      "Cyber Threat Intelligence"
+    ],
+    "links": {
+      "demo": "https://hasnain-shinwari.github.io/CyberSpace/"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Grasshopper",
+    "category": "Vulnerable Machine Development",
+    "description": "Designed and developed a beginner-friendly vulnerable Ubuntu virtual machine for ethical hacking labs. Configured with misconfigured SSH, FTP, Telnet, MySQL, and custom HTTP web challenges to simulate practical penetration testing pathways.",
+    "technologies": [
+      "Linux Admin",
+      "Ubuntu",
+      "Virtualization",
+      "MySQL",
+      "Network Protocols",
+      "Privilege Escalation"
+    ],
+    "links": {
+      "demo": "https://hasnain-shinwari.github.io/Grasshopper/"
+    }
+  }
+]
