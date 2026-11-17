@@ -358,6 +358,7 @@ document.addEventListener('DOMContentLoaded', () => {
         printLine('VERIFIED CREDENTIALS:', 'terminal-success');
         printLine('----------------------------------------');
         printLine('  [+] Certified in Cybersecurity (CC) - ISC2');
+        printLine('  [+] Certified Ethical Hacker (CEH) - EC-Council');
         printLine('  [+] CCNAv7: Enterprise Networking, Security and Automation - Cisco');
         printLine('  [+] CCNAv7: Switching, Routing and Wireless Essentials - Cisco');
         printLine('  [+] CCNAv7: Introduction to Networks - Cisco');
